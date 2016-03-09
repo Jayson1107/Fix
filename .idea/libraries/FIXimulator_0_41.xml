@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FIXimulator_0.41">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/FIXimulator_0.41.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
